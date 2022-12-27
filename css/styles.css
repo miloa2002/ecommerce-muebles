@@ -122,6 +122,11 @@ img {
   padding: 2rem;
   display: none;
 }
+@media (max-width: 768px) {
+  .contenedor-carrito {
+    width: 15rem;
+  }
+}
 .flex-x {
   display: flex;
   justify-content: space-between;
